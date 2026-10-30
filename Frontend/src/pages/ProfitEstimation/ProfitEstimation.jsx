@@ -1,4 +1,4 @@
-```jsx
+
 import { useState } from 'react';
 
 import {
@@ -562,4 +562,4 @@ const ProfitEstimation = () => {
 };
 
 export default ProfitEstimation;
-```
+
